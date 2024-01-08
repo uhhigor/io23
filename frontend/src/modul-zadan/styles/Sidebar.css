@@ -1,0 +1,59 @@
+.sidebar {
+    position: fixed;
+    left: -350px;
+    top: 0;
+    width: 350px;
+    height: 100%;
+    background: #9252c6;
+    color: white;
+    transition: left 0.3s;
+    padding: 15px;
+    z-index: 1000;
+}
+
+.sidebar.open {
+    left: 0;
+}
+
+.scrollable-container {
+    max-height: 80%;
+    overflow-x: auto;
+}
+.scrollable-container::-webkit-scrollbar {
+    width: 10px; 
+}
+
+.scrollable-container::-webkit-scrollbar-thumb {
+    background-color: #cdacff;
+    border-radius: 8px;
+}
+
+.scrollable-container::-webkit-scrollbar-track {
+    background-color: #9252c6;
+}
+
+.toggle-button {
+    position: absolute;
+    right: -124px;
+    top: 16px;
+    transform: translateY(-50%);
+    background: #000000;
+    color: #e889f1;
+    cursor: pointer;
+  }
+  
+  .progress-bar-container {
+    width: 100%;
+    background-color: #f3b8ff;
+    border-radius: 4px;
+    overflow: hidden;
+    margin-top: 15px;
+  }
+  
+  .progress-bar {
+    height: 20px;
+    background-color: rgb(41, 218, 162);
+    width: 0;
+    border-radius: 4px;
+    transition: width 0.3s ease-in-out;
+  }

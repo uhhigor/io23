@@ -10,7 +10,7 @@ import {
   useToast,
 } from "@chakra-ui/react";
 import React, { useState } from "react";
-import { useHistory } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import axios from "axios";
 
 const LoginComponent = () => {
@@ -20,7 +20,7 @@ const LoginComponent = () => {
 
   const toast = useToast();
 
-  const history = useHistory();
+  const history = useNavigate();
   const goToForgottenPasswordPage = () => history.push("/forgottenPassword");
 
   const [username, setUsername] = useState("");

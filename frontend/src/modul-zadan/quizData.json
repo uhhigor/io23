@@ -1,0 +1,882 @@
+[
+    {
+        "category": "recycling",
+        "question": "Które z poniższych materiałów można zazwyczaj poddać recyklingowi?",
+        "answers": [
+            {
+                "text": "Plastik, papier, szkło, metal",
+                "correct": true
+            },
+            {
+                "text": "Plastik, papier, jedzenie, drewno",
+                "correct": false
+            },
+            {
+                "text": "Plastik, jedzenie, tkaniny, guma",
+                "correct": false
+            },
+            {
+                "text": "Plastik, jedzenie, szkło, drewno",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "recycling",
+        "question": "Co oznacza zielony symbol z trzema strzałkami?",
+        "answers": [
+            {
+                "text": "Tylko nadaje się do spalenia",
+                "correct": false
+            },
+            {
+                "text": "Nadaje się do recyklingu",
+                "correct": true
+            },
+            {
+                "text": "Tylko nadaje się do wyrzucenia",
+                "correct": false
+            },
+            {
+                "text": "Nadaje się do kompostowania",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "recycling",
+        "question": "Który z poniższych materiałów nie jest zazwyczaj recyklingowany?",
+        "answers": [
+            {
+                "text": "Papier",
+                "correct": false
+            },
+            {
+                "text": "Styropian",
+                "correct": true
+            },
+            {
+                "text": "Szkło",
+                "correct": false
+            },
+            {
+                "text": "Metal",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "recycling",
+        "question": "Co oznacza \"composting\"?",
+        "answers": [
+            {
+                "text": "Recykling jedzenia na kompost",
+                "correct": true
+            },
+            {
+                "text": "Wyrzucanie jedzenia do kosza na śmieci",
+                "correct": false
+            },
+            {
+                "text": "Palenie jedzenia",
+                "correct": false
+            },
+            {
+                "text": "Recykling jedzenia na biogaz",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "recycling",
+        "question": "Jakie są korzyści z recyklingu?",
+        "answers": [
+            {
+                "text": "Zmniejsza ilość odpadów, oszczędza surowce, ochrona środowiska",
+                "correct": true
+            },
+            {
+                "text": "Zwiększa ilość odpadów, zanieczyszcza wodę, zwiększa emisję gazów cieplarnianych",
+                "correct": false
+            },
+            {
+                "text": "Zwiększa ilość odpadów, oszczędza surowce, zanieczyszcza powietrze",
+                "correct": false
+            },
+            {
+                "text": "Oszczędza surowce, zanieczyszcza wodę, zwiększa emisję gazów cieplarnianych",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "recycling",
+        "question": "Które opakowanie jest zazwyczaj bardziej przyjazne dla środowiska?",
+        "answers": [
+            {
+                "text": "Plastikowe butelki jednorazowego użytku",
+                "correct": false
+            },
+            {
+                "text": "Szkło",
+                "correct": true
+            },
+            {
+                "text": "Plastikowe torby na zakupy",
+                "correct": false
+            },
+            {
+                "text": "Styropianowe opakowania",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "recycling",
+        "question": "Jakie przedmioty można przetworzyć na papier?",
+        "answers": [
+            {
+                "text": "Drzewo, trawa, odpady kuchenne",
+                "correct": false
+            },
+            {
+                "text": "Plastik, metal, szkło",
+                "correct": false
+            },
+            {
+                "text": "Plastik, jedzenie, tkaniny",
+                "correct": false
+            },
+            {
+                "text": "Drzewo, bawełna, makulatura",
+                "correct": true
+            }
+        ]
+    },
+    {
+        "category": "recycling",
+        "question": "Który z poniższych jest przykładem \"reduce\" (redukcji) w kontekście ochrony środowiska?",
+        "answers": [
+            {
+                "text": "Recykling",
+                "correct": false
+            },
+            {
+                "text": "Używanie mniej plastikowych opakowań",
+                "correct": true
+            },
+            {
+                "text": "Wyrzucanie odpadów do rzeki",
+                "correct": false
+            },
+            {
+                "text": "Spalanie śmieci",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "recycling",
+        "question": "Co oznacza \"upcycling\"?",
+        "answers": [
+            {
+                "text": "Recykling",
+                "correct": false
+            },
+            {
+                "text": "Przerabianie starych przedmiotów na nowe, użyteczne produkty",
+                "correct": true
+            },
+            {
+                "text": "Wyrzucanie starych przedmiotów na śmietnik",
+                "correct": false
+            },
+            {
+                "text": "Produkcja nowych przedmiotów z surowców naturalnych",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "recycling",
+        "question": "Które z poniższych jest przykładem \"reuse\" (ponownego użycia) w kontekście ochrony środowiska?",
+        "answers": [
+            {
+                "text": "Wyrzucanie starych ubrań",
+                "correct": false
+            },
+            {
+                "text": "Naprawianie zepsutych przedmiotów i ponowne ich używanie",
+                "correct": true
+            },
+            {
+                "text": "Kupowanie nowych produktów zamiast starych",
+                "correct": false
+            },
+            {
+                "text": "Wyrzucanie starych zabawek",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "recycling",
+        "question": "Co się dzieje, gdy nie recyklingujemy plastikowych opakowań?",
+        "answers": [
+            {
+                "text": "Są spalane, co zanieczyszcza powietrze",
+                "correct": true
+            },
+            {
+                "text": "Są zakopywane w ziemi",
+                "correct": false
+            },
+            {
+                "text": "Są przerabiane na nowe produkty",
+                "correct": false
+            },
+            {
+                "text": "Nic się nie dzieje",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "recycling",
+        "question": "Który z materiałów jest biodegradowalny?",
+        "answers": [
+            {
+                "text": "Plastik",
+                "correct": false
+            },
+            {
+                "text": "Szkło",
+                "correct": false
+            },
+            {
+                "text": "Papier",
+                "correct": true
+            },
+            {
+                "text": "Metal",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "recycling",
+        "question": "Jakie działania możemy podjąć, aby ograniczyć ilość odpadów?",
+        "answers": [
+            {
+                "text": "Kupowanie więcej opakowań jednorazowego użytku",
+                "correct": false
+            },
+            {
+                "text": "Oszczędzanie wody",
+                "correct": false
+            },
+            {
+                "text": "Używanie opakowań wielokrotnego użytku, ograniczanie plastiku",
+                "correct": true
+            },
+            {
+                "text": "Nie dbanie o segregację odpadów",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "recycling",
+        "question": "Który z poniższych odpadów można zazwyczaj kompostować?",
+        "answers": [
+            {
+                "text": "Plastik",
+                "correct": false
+            },
+            {
+                "text": "Jedzenie",
+                "correct": true
+            },
+            {
+                "text": "Szkło",
+                "correct": false
+            },
+            {
+                "text": "Metal",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "recycling",
+        "question": "Co się stanie, gdy recyklingujemy papier?",
+        "answers": [
+            {
+                "text": "Papier jest przerabiany na nowy papier lub inne produkty",
+                "correct": true
+            },
+            {
+                "text": "Papier jest spalany",
+                "correct": false
+            },
+            {
+                "text": "Papier jest zakopywany w ziemi",
+                "correct": false
+            },
+            {
+                "text": "Nic się nie dzieje",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "recycling",
+        "question": "Jakie korzyści płyną z recyklingu papieru?",
+        "answers": [
+            {
+                "text": "Oszczędność energii, zmniejszenie wycinki drzew, ograniczenie ilości odpadów",
+                "correct": true
+            },
+            {
+                "text": "Zwiększenie emisji gazów cieplarnianych, zanieczyszczenie wód, utrata bioróżnorodności",
+                "correct": false
+            },
+            {
+                "text": "Zwiększenie produkcji opakowań jednorazowego użytku, spadek jakości powietrza, zwiększenie kosztów",
+                "correct": false
+            },
+            {
+                "text": "Brak korzyści z recyklingu papieru",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "recycling",
+        "question": "Dlaczego ważne jest unikanie nadmiernego korzystania z opakowań jednorazowego użytku?",
+        "answers": [
+            {
+                "text": "Zwiększa ilość odpadów, zanieczyszcza glebę",
+                "correct": false
+            },
+            {
+                "text": "Ogranicza ilość odpadów, zmniejsza ilość plastiku w środowisku, oszczędza surowce",
+                "correct": true
+            },
+            {
+                "text": "Ułatwia recykling opakowań, wspomaga produkcję plastiku",
+                "correct": false
+            },
+            {
+                "text": "Nie ma wpływu na środowisko",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "recycling",
+        "question": "Co to jest segregacja odpadów?",
+        "answers": [
+            {
+                "text": "Rzucanie śmieci wszędzie",
+                "correct": false
+            },
+            {
+                "text": "Dzielenie odpadów na różne kategorie w celu ich skutecznego przetwarzania",
+                "correct": true
+            },
+            {
+                "text": "Zakopywanie śmieci w ziemi",
+                "correct": false
+            },
+            {
+                "text": "Wyrzucanie śmieci do rzeki",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "recycling",
+        "question": "Jakie są korzyści płynące z recyklingu szkła?",
+        "answers": [
+            {
+                "text": "Zmniejszenie emisji gazów cieplarnianych",
+                "correct": true
+            },
+            {
+                "text": "Zwiększenie produkcji opakowań jednorazowego użytku",
+                "correct": false
+            },
+            {
+                "text": "Zanieczyszczenie wód",
+                "correct": false
+            },
+            {
+                "text": "Utrata bioróżnorodności",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "recycling",
+        "question": "Co to jest recykling?",
+        "answers": [
+            {
+                "text": "Proces przekształcania odpadów na nowe produkty",
+                "correct": true
+            },
+            {
+                "text": "Wyrzucanie śmieci do rzeki",
+                "correct": false
+            },
+            {
+                "text": "Zakopywanie odpadów w ziemi",
+                "correct": false
+            },
+            {
+                "text": "Palenie odpadów",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "waterSaving",
+        "question": "Jakie działanie pomaga w oszczędzaniu wody podczas mycia zębów?",
+        "answers": [
+            {
+                "text": "Pozostawianie wody lejącej się z kranu",
+                "correct": false
+            },
+            {
+                "text": "Trzymanie wody w dłoniach podczas mycia zębów",
+                "correct": false
+            },
+            {
+                "text": "Zamykanie kranu podczas szczotkowania zębów",
+                "correct": true
+            },
+            {
+                "text": "Spłukiwanie zębów wodą przez cały czas",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "waterSaving",
+        "question": "Jakie działanie pomaga w oszczędzaniu wody podczas kąpieli?",
+        "answers": [
+            {
+                "text": "Napełnianie wanny po brzegi",
+                "correct": false
+            },
+            {
+                "text": "Krótka kąpiel zamiast długiego moczenia się",
+                "correct": true
+            },
+            {
+                "text": "Odpuszczanie wody z wanny po kąpieli",
+                "correct": false
+            },
+            {
+                "text": "Dodawanie więcej wody do wanny podczas kąpieli",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "waterSaving",
+        "question": "Co możesz zrobić, aby zaoszczędzić wodę podczas mycia rąk?",
+        "answers": [
+            {
+                "text": "Mydło ręczne przez długi czas",
+                "correct": false
+            },
+            {
+                "text": "Trzymanie wody lejącej się z kranu podczas mycia rąk",
+                "correct": false
+            },
+            {
+                "text": "Używanie miski z wodą do mycia rąk",
+                "correct": true
+            },
+            {
+                "text": "Korzystanie z pełnego strumienia wody podczas mycia rąk",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "waterSaving",
+        "question": "Jakie działanie pomaga w oszczędzaniu wody podczas mycia naczyń?",
+        "answers": [
+            {
+                "text": "Używanie płynu do mycia naczyń w dużych ilościach",
+                "correct": false
+            },
+            {
+                "text": "Mycie naczyń pod bieżącą wodą przez cały czas",
+                "correct": false
+            },
+            {
+                "text": "Napełnianie zlewu wodą do mycia naczyń",
+                "correct": true
+            },
+            {
+                "text": "Spłukiwanie naczyń wodą z kranu",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "waterSaving",
+        "question": "Co można zrobić, aby zaoszczędzić wodę podczas podlewania roślin w ogrodzie?",
+        "answers": [
+            {
+                "text": "Podlewanie roślin w pełnym słońcu",
+                "correct": false
+            },
+            {
+                "text": "Podlewanie roślin w gorące dni",
+                "correct": false
+            },
+            {
+                "text": "Podlewanie roślin rano lub wieczorem, kiedy jest chłodniej",
+                "correct": true
+            },
+            {
+                "text": "Podlewanie roślin podczas upałów w południe",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "waterSaving",
+        "question": "Co to jest 'deszczówka'?",
+        "answers": [
+            {
+                "text": "Woda opadająca z chmur w postaci deszczu",
+                "correct": false
+            },
+            {
+                "text": "Woda zbierająca się na drogach po deszczu",
+                "correct": false
+            },
+            {
+                "text": "Woda zbierająca się w specjalnych pojemnikach z deszczówki",
+                "correct": true
+            },
+            {
+                "text": "Woda z kranu",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "waterSaving",
+        "question": "Jakie działanie pomaga w oszczędzaniu wody podczas korzystania z toalety?",
+        "answers": [
+            {
+                "text": "Spuszczanie wody po każdym użyciu toalety",
+                "correct": false
+            },
+            {
+                "text": "Stosowanie pełnego spłukiwania zawsze",
+                "correct": false
+            },
+            {
+                "text": "Spuszczanie wody tylko wtedy, gdy jest to konieczne",
+                "correct": true
+            },
+            {
+                "text": "Używanie wody deszczowej do spłukiwania toalety",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "waterSaving",
+        "question": "Jakie działanie pomaga w oszczędzaniu wody podczas mycia samochodu?",
+        "answers": [
+            {
+                "text": "Używanie węża z pełnym strumieniem wody przez cały czas",
+                "correct": false
+            },
+            {
+                "text": "Mycie samochodu w ciepły dzień, kiedy jest dużo słońca",
+                "correct": false
+            },
+            {
+                "text": "Korzystanie z wiaderka wody i gąbki do mycia samochodu",
+                "correct": true
+            },
+            {
+                "text": "Mycie samochodu pod strumieniem wody bezpośrednio z kranu",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "waterSaving",
+        "question": "Co to jest 'woda gruntowa'?",
+        "answers": [
+            {
+                "text": "Woda opadająca w postaci deszczu",
+                "correct": false
+            },
+            {
+                "text": "Woda, która zbiera się na powierzchni ziemi",
+                "correct": false
+            },
+            {
+                "text": "Woda, która znajduje się pod ziemią w szczelinach i porach skalnych",
+                "correct": true
+            },
+            {
+                "text": "Woda z kranu",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "waterSaving",
+        "question": "Jakie działanie pomaga w oszczędzaniu wody podczas korzystania z pralki?",
+        "answers": [
+            {
+                "text": "Używanie pralki tylko wtedy, gdy jest bardzo dużo brudnej bielizny",
+                "correct": false
+            },
+            {
+                "text": "Ustawianie pralki na dłuższe cykle prania",
+                "correct": false
+            },
+            {
+                "text": "Ustawianie pralki na krótsze cykle prania",
+                "correct": true
+            },
+            {
+                "text": "Pranie tylko jednej rzeczy naraz",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "waterSaving",
+        "question": "Co oznacza termin 'xerokrajobraz'?",
+        "answers": [
+            {
+                "text": "Krajobraz pustynny",
+                "correct": true
+            },
+            {
+                "text": "Krajobraz, który wymaga dużo wody do utrzymania roślinności",
+                "correct": false
+            },
+            {
+                "text": "Krajobraz, który jest podatny na powodzie",
+                "correct": false
+            },
+            {
+                "text": "Krajobraz, który jest przyjazny dla środowiska",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "waterSaving",
+        "question": "Jakie działanie pomaga w oszczędzaniu wody podczas korzystania z zraszaczy ogrodowych?",
+        "answers": [
+            {
+                "text": "Ustawianie zraszaczy na wysokość, aby woda leciała daleko",
+                "correct": false
+            },
+            {
+                "text": "Ustawianie zraszaczy na niską wysokość, aby woda padała bliżej ziemi",
+                "correct": true
+            },
+            {
+                "text": "Korzystanie z zraszaczy tylko podczas deszczu",
+                "correct": false
+            },
+            {
+                "text": "Zatrzymywanie zraszaczy, gdy jest wiatr, aby uniknąć rozpryskiwania wody",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "waterSaving",
+        "question": "Co to jest 'woda deszczowa'?",
+        "answers": [
+            {
+                "text": "Woda zbierająca się w kałużach po deszczu",
+                "correct": false
+            },
+            {
+                "text": "Woda deszczowa zbierająca się w rzekach i jeziorach",
+                "correct": false
+            },
+            {
+                "text": "Woda, która spada z chmur podczas deszczu",
+                "correct": true
+            },
+            {
+                "text": "Woda pitna",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "waterSaving",
+        "question": "Jakie działanie pomaga w oszczędzaniu wody podczas korzystania z kranu?",
+        "answers": [
+            {
+                "text": "Odpuszczanie wody z kranu przez cały czas",
+                "correct": false
+            },
+            {
+                "text": "Zamykanie kranu podczas mycia rąk lub mycia zębów",
+                "correct": true
+            },
+            {
+                "text": "Trzymanie dłoni pod strumieniem wody przez długi czas",
+                "correct": false
+            },
+            {
+                "text": "Pozostawianie kranu otwartego nawet gdy nie jest używany",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "waterSaving",
+        "question": "Co oznacza termin 'spływ powierzchniowy'?",
+        "answers": [
+            {
+                "text": "Spływ wody z kranu",
+                "correct": false
+            },
+            {
+                "text": "Spływ wody w rzece",
+                "correct": false
+            },
+            {
+                "text": "Spływ wody po powierzchni ziemi podczas deszczu",
+                "correct": true
+            },
+            {
+                "text": "Spływ wody w kanale",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "waterSaving",
+        "question": "Co oznacza termin 'woda pitna'?",
+        "answers": [
+            {
+                "text": "Woda, która nadaje się do picia bez konieczności przegotowania lub oczyszczania",
+                "correct": true
+            },
+            {
+                "text": "Woda, która nadaje się do picia po przegotowaniu lub oczyszczeniu",
+                "correct": false
+            },
+            {
+                "text": "Woda, która nadaje się do picia tylko dla zwierząt",
+                "correct": false
+            },
+            {
+                "text": "Woda, która nadaje się do picia tylko dla roślin",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "waterSaving",
+        "question": "Co oznacza termin 'osadnik' w kontekście wody?",
+        "answers": [
+            {
+                "text": "Urządzenie do przesiewania piasku z wody",
+                "correct": false
+            },
+            {
+                "text": "Urządzenie do oczyszczania wody, usuwające zawiesiny stałe",
+                "correct": true
+            },
+            {
+                "text": "Urządzenie do mieszania różnych rodzajów wody",
+                "correct": false
+            },
+            {
+                "text": "Urządzenie do mierzenia ilości wody w rzekach",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "waterSaving",
+        "question": "Jakie działanie pomaga w oszczędzaniu wody podczas korzystania z zmywarki do naczyń?",
+        "answers": [
+            {
+                "text": "Używanie zmywarki tylko wtedy, gdy jest pełna",
+                "correct": true
+            },
+            {
+                "text": "Włączanie zmywarki na dłuższe cykle mycia",
+                "correct": false
+            },
+            {
+                "text": "Włączanie zmywarki nawet gdy jest tylko kilka naczyń do umycia",
+                "correct": false
+            },
+            {
+                "text": "Ręczne mycie naczyń zamiast korzystania z zmywarki",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "waterSaving",
+        "question": "Co oznacza termin 'filtr do wody'?",
+        "answers": [
+            {
+                "text": "Urządzenie, które dodaje substancje chemiczne do wody",
+                "correct": false
+            },
+            {
+                "text": "Urządzenie, które usuwa zanieczyszczenia i substancje niepożądane z wody",
+                "correct": true
+            },
+            {
+                "text": "Urządzenie, które zmienia smak wody",
+                "correct": false
+            },
+            {
+                "text": "Urządzenie, które sprawia, że woda jest bardziej kolorowa",
+                "correct": false
+            }
+        ]
+    },
+    {
+        "category": "waterSaving",
+        "question": "Jakie działanie pomaga w oszczędzaniu wody podczas korzystania z basenu?",
+        "answers": [
+            {
+                "text": "Pozostawianie basenu otwartego nawet gdy nie jest używany",
+                "correct": false
+            },
+            {
+                "text": "Utrzymywanie wody w basenie przez długi czas bez zmiany",
+                "correct": false
+            },
+            {
+                "text": "Pokrywanie basenu, gdy nie jest używany, aby unikać parowania wody",
+                "correct": true
+            },
+            {
+                "text": "Używanie basenu tylko wtedy, gdy jest gorąco na zewnątrz",
+                "correct": false
+            }
+        ]
+    }
+]

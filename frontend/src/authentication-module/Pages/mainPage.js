@@ -2,7 +2,7 @@ import { Stack, Button, Text, Textarea } from "@chakra-ui/react";
 import React, { useState } from "react";
 import RegisterComponent from "../Components/RegisterComponent";
 import UserInfoComponent from "../Components/UserInfoComponent";
-import { useHistory } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 
 import axios from "axios";
 
@@ -10,7 +10,7 @@ const MainPage = () => {
   const [showSettings, setShowSettings] = useState(false);
   const [showRegisterForm, setShowRegisterForm] = useState(false);
   const [showCredentialsForm, setShowCredentialsForm] = useState(false);
-  const history = useHistory();
+  const history = useNavigate();
 
   const logOut = async () => {
     await axios.post("/api/user/logout");
