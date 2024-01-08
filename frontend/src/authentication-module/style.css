@@ -1,0 +1,32 @@
+.AuthenticationModule {
+  min-height: 100vh;
+  display: flex;
+  background-image: linear-gradient(
+    to right bottom,
+    rgb(23, 135, 13),
+    rgb(38, 38, 172),
+    rgb(29, 29, 131)
+  );
+}
+
+.heh {
+  background-color: brown;
+}
+
+.hehDarkMode {
+  background-color: aquamarine;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
